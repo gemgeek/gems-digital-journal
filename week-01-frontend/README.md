@@ -1,4 +1,4 @@
-## Week 01 - Frontend  
+## Week 01 - Frontend 🚀 
 Status: Onboarding week  
 
 This week was calm but exciting. I officially began my journey as a full-stack engineer, starting with the front-end track.
