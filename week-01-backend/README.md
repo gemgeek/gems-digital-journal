@@ -1,4 +1,4 @@
-## Week 01 - Backend  
+## Week 01 - Backend 🚀
 Status: Onboarding week  
 
 Backend began with a gentle start. Nothing heavy yet, but the energy is building up!
@@ -9,4 +9,6 @@ Backend began with a gentle start. Nothing heavy yet, but the energy is building
 
 Curious about what challenges and breakthroughs the backend will bring—ready to embrace them all!
 
-![My Backend Roadmap](path/to/image.png)  <!-- Replace with actual image link once uploaded -->
+## My Roadmap
+
+![My Backend Roadmap](https://github.com/gemgeek/gems-digital-journal/blob/main/assets/GEM'S%20SE%20ROADMAP%20(1).png)  <!-- Replace with actual image link once uploaded -->
