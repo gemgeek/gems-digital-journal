@@ -1,4 +1,3 @@
-<h1 align="center">Gems-Digital-Journal </h1>
 <h1 align="center"> A digital journal documenting my journey to becoming a full-stack engineer. </h1>
 
 <h1 align="center">Hi, I'm Gem Geek 💎👩‍💻</h1>
