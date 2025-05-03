@@ -11,6 +11,6 @@ I'm eager and a little nervous, but mostly *hopeful* for what's ahead. Here's to
 
 ## My Roadmap
 
-![My Frontend Roadmap](https://github.com/gemgeek/gems-digital-journal/blob/main/GEM'S%20SE%20ROADMAP%20(1).png)  <!-- Replace with actual image link once uploaded -->
+![My Frontend Roadmap](https://github.com/gemgeek/gems-digital-journal/blob/main/assets/GEM'S%20SE%20ROADMAP%20(1).png)  <!-- Replace with actual image link once uploaded -->
 
 ---
