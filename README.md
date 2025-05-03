@@ -24,7 +24,7 @@ This GitHub repo is more than code. It’s a space for:
 > For now, this digital avatar represents me. The real Gem will be revealed when I graduate and step into the world, fully certified and ready to build global solutions.
 > 
 <p align="center">
-  <img src="https://github.com/gemgeek/gems-digital-journal/blob/main/ChatGPT%20Image%20May%202%2C%202025%2C%2003_57_51%20PM.png" alt="Gem Geek Avatar" width="300"/>
+  <img src="https://github.com/gemgeek/gems-digital-journal/blob/main/ChatGPT%20Image%20May%202%2C%202025%2C%2003_57_51%20PM.png" alt="Gem Geek Avatar" width="400"/>
 </p>
 
 ---
