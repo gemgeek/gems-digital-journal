@@ -9,6 +9,8 @@ This week was calm but exciting. I officially began my journey as a full-stack e
 
 I'm eager and a little nervous, but mostly *hopeful* for what's ahead. Here's to growth, grit, and gorgeous UIs!
 
-![My Frontend Roadmap](path/to/image.png)  <!-- Replace with actual image link once uploaded -->
+## My Roadmap
+
+![My Frontend Roadmap](https://github.com/gemgeek/gems-digital-journal/blob/main/GEM'S%20SE%20ROADMAP%20(1).png)  <!-- Replace with actual image link once uploaded -->
 
 ---
