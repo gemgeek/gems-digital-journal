@@ -49,3 +49,4 @@ From pushing code to pushing through challenges, Week 1 has been packed with les
 
 ### Screenshots
 ![Mimo Leaderboard](https://github.com/gemgeek/gems-digital-journal/blob/main/assets/photo_2025-05-09_00-15-01.jpg)
+![DailyDev Gift](https://github.com/gemgeek/gems-digital-journal/blob/main/assets/photo_2025-05-09_00-17-20.jpg)
