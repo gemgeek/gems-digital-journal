@@ -46,3 +46,6 @@ This week kicked off my journey as a full-stack software engineering student —
 ---
 
 From pushing code to pushing through challenges, Week 1 has been packed with lessons, wins, and so much growth. Let’s keep the fire burning!
+
+### Screenshots
+![Mimo Leaderboard](https://github.com/gemgeek/gems-digital-journal/blob/main/assets/photo_2025-05-09_00-15-01.jpg)
