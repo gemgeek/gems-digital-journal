@@ -17,7 +17,8 @@ This week, I focused on understanding the foundational concepts of Git and GitHu
 > *I was amazed at how smooth and beautiful the process felt. I love what I’m doing, and I’m grateful I started this course.*
 
 ## Reflections 🎧
-![](./assets/https://github.com/gemgeek/gems-digital-journal/blob/main/assets/GEMs%2520DIGITAL%2520AVATAR%25201.png)
+
+![](https://raw.githubusercontent.com/gemgeek/gems-digital-journal/main/assets/GEMs%20DIGITAL%20AVATAR%201.png)
 
 Using the command line made me feel so powerful, seeing that blue screen, typing commands, resolving merge conflicts, it felt like magic. I’m truly enjoying the learning process.
 
