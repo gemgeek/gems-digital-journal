@@ -11,8 +11,11 @@ This week, I focused on understanding the foundational concepts of Git and GitHu
 - Resolved merge conflicts using PowerShell
 - Documented the entire process with a screen recording
 
-## My Git Assignment Walkthrough 📲
-[Watch the recording here](https://github.com/gemgeek/gems-digital-journal/blob/main/assets/git_assignment_walkthrough.mp4)
+## My Git Assignment Screenshot 📲
+
+<p align="center">
+<img src="https://github.com/gemgeek/gems-digital-journal/blob/main/assets/Git-Assignment-Screenshot.png" width="800"/>
+</p>
 
 > *I was amazed at how smooth and beautiful the process felt. I love what I’m doing, and I’m grateful I started this course.*
 
