@@ -23,7 +23,7 @@ This GitHub repo is more than code. It’s a space for:
 > For now, this digital avatar represents me. 
 > 
 <div>
-  <img src="https://github.com/gemgeek/gems-digital-journal/blob/main/assets/GEM%20GEEK's%20LOGO.jpg"alt="Gem Geek Logo" width="350"/>
+  <img src="https://github.com/gemgeek/gems-digital-journal/blob/main/assets/GEM%20GEEK's%20LOGO.jpg"alt="Gem Geek Logo" width="350" style="margin-right: 10cm;"/>
   <img src="https://github.com/gemgeek/gems-digital-journal/blob/main/assets/GEMs%20DIGITAL%20AVATAR%202.png" alt="Gem Geek Avatar" width="350"/>
 </div> 
 ---
