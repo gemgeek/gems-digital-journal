@@ -20,12 +20,12 @@ This GitHub repo is more than code. It’s a space for:
 - Honest reflections—wins, fails, and everything in between
 - Snapshots and visuals from my tech life
 
-> For now, this digital avatar represents me. The real Gem will be revealed when I graduate and step into the world, fully certified and ready to build global solutions.
+> For now, this digital avatar represents me. 
 > 
-<p align="center">
-  <img src="https://github.com/gemgeek/gems-digital-journal/blob/main/assets/GEMs%20DIGITAL%20AVATAR%202.png" alt="Gem Geek Avatar" width="400"/>
-</p>
-
+<div>
+  <img src="https://github.com/gemgeek/gems-digital-journal/blob/main/assets/GEM%20GEEK's%20LOGO.jpg"alt="Gem Geek Logo" width="350"/>
+  <img src="https://github.com/gemgeek/gems-digital-journal/blob/main/assets/GEMs%20DIGITAL%20AVATAR%202.png" alt="Gem Geek Avatar" width="350"/>
+</div> 
 ---
 
 ## My Weekly Logs
