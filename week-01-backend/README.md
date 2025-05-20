@@ -1,4 +1,4 @@
-## Week 01 - Backend 🚀
+## Week 0 - Backend 🚀
 Status: Onboarding week  
 
 Backend began with a gentle start. Nothing heavy yet, but the energy is building up!
