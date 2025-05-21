@@ -55,6 +55,7 @@ This week was all about foundations. I officially started learning Python for ba
 
 ![Python Code Snippet](https://github.com/gemgeek/gems-digital-journal/blob/main/assets/Python%20Assignment.png)
 
+![JavaScript Snippet](https://github.com/gemgeek/gems-digital-journal/blob/main/assets/JS%20assignment.png)
 ---
 
 _This week reminded me that I’m not just learning how to code — I’m becoming the developer I’ve always dreamed of. 💫_
