@@ -31,7 +31,7 @@ This GitHub repo is more than code. It’s a space for:
 ## My Weekly Logs
 Each week, you’ll find updates in two folders:
 - frontend/: My journey with HTML, CSS, JavaScript & more
-- backend/: My experience with servers, APIs, databases & logic
+- backend/: My experience with servers, APIs, Python, databases & logic
 
 Thank you for being part of my journey!
 
