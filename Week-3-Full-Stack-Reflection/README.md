@@ -1,4 +1,4 @@
-# 🗓️ Week 03: Marking one month! 
+# 🗓️ Week 03: 
 
 ## 🌟 Highlights of the Week
 
