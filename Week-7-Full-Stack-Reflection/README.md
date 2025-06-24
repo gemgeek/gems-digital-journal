@@ -43,6 +43,9 @@ On the backend side, we continued our journey into **Object-Oriented Programming
 
 It’s been challenging but so rewarding. OOP concepts are clicking more each week!
 
+My name appeared on the leaderboard of top 10 performers for the month! 💃
+<img src="https://github.com/gemgeek/gems-digital-journal/blob/main/assets/Back-End%20Leaderboard%20Month%202.jpg" alt="Leaderboard" width="300">
+
 ---
 
 ## 🌐 Mimo Milestones
