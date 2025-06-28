@@ -1,9 +1,9 @@
-<h1 align="center"> A digital journal documenting my journey to becoming a full-stack engineer. </h1>
+<h1 align="center"> A digital journal documenting my journey to becoming a full-stack Developer. </h1>
 
 <h1 align="center">Hi, I'm Gem Geek 💎👩‍💻</h1>
 
 <p align="center">
-  <em>Aspiring Full-Stack Engineer | Creative Tech Girly | ALX SE Fellow</em>
+  <em>Junior Full-Stack Developer | Creative Tech Girly | ALX SE Fellow</em>
 </p>
 
 ---
