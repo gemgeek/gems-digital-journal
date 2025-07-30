@@ -27,7 +27,7 @@ This week was packed with new skills and real victories across both **frontend**
 - **Deployment**
   - Pushed project to GitHub
   - Successfully deployed to **Vercel**:
-    🔗 [Live Site](https://alx-fe-reactjs-czxzybb46-matilda-esenam-gbeves-projects.vercel.app)
+    🔗 [Live Site](https://alx-fe-reactjs-git-main-matilda-esenam-gbeves-projects.vercel.app/)
 
 - **Environment Security**
   - Ensured `.env` file is ignored in Git and not committed
@@ -85,9 +85,9 @@ I can boldly say I'm not just building, I'm **engineering**.
 
 ## Some Screenshots
 <img src="https://github.com/gemgeek/gems-digital-journal/blob/main/assets/Github%20User%20Search.png" alt="FE" width="350">
+<img src="https://github.com/gemgeek/gems-digital-journal/blob/main/assets/GUS%20App.png" alt="GUS App" width="350">
 <img src="https://github.com/gemgeek/gems-digital-journal/blob/main/assets/Django%20REST%20Framework.png" alt="BE" width="350">
 <img src="https://github.com/gemgeek/gems-digital-journal/blob/main/assets/Vercel%20deployment.png" alt="Vercel" width="350">
-
 ---
 
 ## 📅 Next Steps
