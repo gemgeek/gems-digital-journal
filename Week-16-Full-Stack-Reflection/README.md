@@ -16,7 +16,10 @@ As part of my **ALX Software Engineering journey**, this week in **frontend dev*
 - Patience and experimentation are key – sometimes moving files around is part of the learning curve.  
 
 ## 🔄 Other Activities  
-- **Capstone Milestone**: Finalized my **capstone project** and successfully **recorded my presentation**.  
+- **Capstone Milestone**: Finalized my **capstone project** and successfully **recorded my presentation**.
+
+<img src="https://github.com/gemgeek/gems-digital-journal/blob/main/assets/Capstone%20presentation%20shot.png" alt="Presentation" width="350">
+
 - **Professional Development**: Commenced **ProDev Frontend and Backend modules**, setting the stage for deeper learning.  
 
 ## 🎯 Next Steps  
