@@ -15,6 +15,33 @@ As part of my **ALX Software Engineering journey**, this week in **frontend dev*
 - Automated checks are strict, but they help reinforce best practices.  
 - Patience and experimentation are key – sometimes moving files around is part of the learning curve.  
 
+# Backend Development (Social Media API) 🚀
+
+## Overview  
+This week, I worked on the backend side of a **Social Media API project** using **Django and Django REST Framework (DRF)**. The project focused on building a robust backend capable of handling user authentication and social media features.  
+
+## Key Achievements ✨  
+- **Set up Django project** 🛠️: Created a new Django app and configured `settings.py` for backend development.  
+- **Configured WSGI application** 🔧: Linked the project name to `social_media_api.wsgi.application` for proper deployment settings.  
+- **Version control** 🔄: Maintained updates and commits using **Git**; ensured all changes passed the ALX project checker.  
+- **Checker success** ✅: All backend tasks successfully passed the checker after multiple refinements and testing.  
+- **Explored deployment options** ☁️: Learned about **Heroku** deployment (created an app and remote repository) but decided not to deploy yet to maintain checker stability.  
+- **Learned Postman’s purpose** 📬: Understood that Postman is used for **API testing**, not deployment.  
+
+## Lessons Learned 📚  
+- Keeping changes simple and committing frequently helps prevent errors.    
+
+## Tools & Technologies 🧰  
+- **Django**  
+- **Django REST Framework (DRF)**  
+- **Git & GitHub**  
+- **Heroku (explored)**  
+- **Postman (learned)**  
+
+---
+
+**Reflection** 💡: This week, I gained more confidence in handling backend settings and understood the workflow of an API project.  
+
 ## 🔄 Other Activities  
 - **Capstone Milestone**: Finalized my **capstone project** and successfully **recorded my presentation**.
 
@@ -23,7 +50,7 @@ As part of my **ALX Software Engineering journey**, this week in **frontend dev*
 - **Professional Development**: Commenced **ProDev Frontend and Backend modules**, setting the stage for deeper learning.  
 
 ## 🎯 Next Steps  
-- Backend assignments are next! Ready to dive into APIs, logic, and database work.  
+- Focus on personal project.  
 
 ---
 **Feeling proud and motivated to keep building!** 🚀
