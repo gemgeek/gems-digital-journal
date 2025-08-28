@@ -2,7 +2,7 @@
 
 ## 🌟 Weekly Reflection: Requirement Analysis Project
 
-This week, I worked on the **Requirement Analysis Project**, which focused on building a solid foundation for a booking management system by documenting, analyzing, and structuring requirements. The tasks helped me understand how requirement analysis fits into the **Software Development Lifecycle (SDLC)** and why it is crucial for successful project execution.
+The first thing we tackled this week was **Requirement Analysis Project**, which focused on building a solid foundation for a booking management system by documenting, analyzing, and structuring requirements. The tasks helped me understand how requirement analysis fits into the **Software Development Lifecycle (SDLC)** and why it is crucial for successful project execution.
 
 ### 🛠️ Key Activities Completed
 - **Repository Setup**: Created a new GitHub repository `requirement-analysis` and added the initial README.md file.  
@@ -21,3 +21,33 @@ This week, I worked on the **Requirement Analysis Project**, which focused on bu
 
 ### 🚀 Reflection
 This week sharpened my skills in **structured documentation** and **requirement clarity**. I now appreciate how much planning happens **before coding even begins**. This foundation is critical for avoiding miscommunication and ensuring smooth development down the line.  
+
+---
+
+## 📌 Wireframing Project
+
+Secondly, I worked on the **Wireframing: From Wireframe to Prototype** project. The goal was to understand wireframing as a crucial step in UI/UX design and how it supports software development.  
+
+### 🔑 Key Learnings & Activities
+- **Introduction to Wireframing**  
+  Learned what wireframing is and why it is important in guiding the design process.  
+
+- **Key Elements of a Wireframe**  
+  Explored layout structure, navigation, content placement, and functionality, with examples of how they shape user experience.  
+
+- **Types of Wireframes**  
+  Compared **low-fidelity vs. high-fidelity wireframes** in a table format.  
+  Analyzed a real-world high-fidelity wireframe (“Project Airbnb”).  
+
+- **Wireframing Tools**  
+  Reviewed different tools and highlighted **Figma** as a collaborative, powerful option for creating wireframes and prototypes.  
+
+- **Benefits of Wireframing in Software Development**  
+  Understood how wireframes improve communication among team members, reduce risks, and guide design decisions.  
+
+- **Wireframing in Practice**  
+  Reflected on a real-world scenario where wireframing identified usability issues early (checkout flow in a booking platform).  
+  Learned how issues were resolved before development, saving time and ensuring a smoother user experience.  
+
+### 🌟 Reflection
+This project showed me how **wireframing bridges design and development**. By testing ideas visually, I saw how usability problems can be caught early, which avoids costly fixes later. Wireframing also makes teamwork easier since everyone can see and agree on the design before coding begins.  
