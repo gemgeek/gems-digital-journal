@@ -40,8 +40,8 @@ Here’s a space to share some of the amazing memories and proof of the journey:
 
 | Moment | Snapshot |
 |--------|----------|
-| Certificate Day | ![Certificate Celebration](path/to/certificate_day_photo.png) |
-| Team & Peers | ![Graduation Group Photo](path/to/group_photo.png) |
+| Certificate Day | ![Certificate Celebration](https://github.com/gemgeek/gems-digital-journal/blob/main/assets/Screenshot%202025-09-18%20114323.png) |
+| Team & Peers | ![Graduation Group Photo](https://github.com/gemgeek/gems-digital-journal/blob/main/assets/Screenshot%202025-09-18%20115611.png) |
 
 ---
 
