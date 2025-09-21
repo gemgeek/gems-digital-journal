@@ -53,3 +53,51 @@ In addition to the messaging app, I also completed a milestone focused on the da
 
 - **Models & Serializers:** Similar to the project, this involved defining the data structure and the API "translators."
 - **Seeders:** I learned about and implemented **seeders**. A seeder is a script used to populate a database with initial or fake data (e.g., creating 50 fake users for testing). This is an essential tool for development, as it allows you to test your API with realistic data without having to manually create every entry.
+---
+
+## ProDev Frontend
+Frontend this week was a whirlwind of learning and building with modern frontend technologies! I progressed from scaffolding my first project to building dynamic, data-driven, and interactive user interfaces. It was challenging, but I'm proud of the three complete projects I set up.
+
+## Project 1: The Airbnb UI Clone (Fundamentals) 🏠
+
+This project was all about getting the fundamentals right. I learned how to set up a project from scratch and build the basic visual elements of a web page.
+
+- **What I Did:**
+  - 🚀 Scaffolded a new **Next.js** project with **TypeScript** and **Tailwind CSS**.
+  - 📂 Set up basic file-based routing to create multiple pages (`/`, `/about`, `/landing`).
+  - 🧱 Built static UI components like `Card`, `Pill`, and a dynamic `Button`.
+  - 🔧 Made components reusable and dynamic by passing `props` and defining their types with TypeScript `interfaces`.
+- **Key Learning:** My biggest takeaway was understanding how to break a UI down into small, reusable "LEGO bricks" (components) and control their appearance and content using props.
+
+---
+## Project 2: API Integration & Interactivity 🔄
+
+Building on the first project, this assignment introduced me to working with external data and making the application interactive.
+
+- **What I Did:**
+  - 🌐 Fetched data from a real external API (JSONPlaceholder) using Next.js's `getStaticProps` for great performance.
+  - 🗺️ Mapped over arrays of data to render dynamic lists of `PostCard` and `UserCard` components.
+  - 💡 Managed component state for the first time using the `useState` React hook.
+  - 팝업 Built interactive **modal forms** that appear when a user clicks a button, allowing for new post and user creation.
+- **Key Learning:** This project taught me the core skill of fetching and displaying data from an API. I also got comfortable with managing state, which is key for creating interactive user experiences like pop-up forms.
+
+---
+## Project 3: Responsive Property Listing App (Layouts) 🖼️
+
+This final project focused on professional project setup and creating a consistent, robust layout structure for a larger application.
+
+- **What I Did:**
+  - 🐙 Mastered different Git workflows for duplicating and setting up a new repository from a starter template.
+  - 📦 Created a clean data structure using `constants` for sample data and `interfaces` for type definitions.
+  - 🏗️ Built shared layout components (`Header`, `Footer`, `Layout`).
+  - 🌍 Applied the `Layout` component globally using `pages/_app.tsx` to ensure a consistent look and feel across the entire application.
+- **Key Learning:** I learned how to structure a larger application with a consistent layout. Using a main `Layout` component in `_app.tsx` is a powerful pattern for keeping the UI consistent and code maintainable.
+
+---
+## 🛠️ Tools & Technologies I Used This Week
+
+* **Next.js** 🔼
+* **React** ⚛️
+* **TypeScript** 📘
+* **Tailwind CSS** 💨
+* **Git & GitHub** 🐙
