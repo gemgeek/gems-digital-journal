@@ -1,6 +1,6 @@
 # 📖 My Full-Stack Weekly Reflection 🚀
 
-This week was a solid journey across frontend and backend development. I tackled four major areas: **React state management, responsive UI, Django signals, and API optimization**.
+This week was a solid journey across frontend, backend, and shell scripting. I tackled four major areas: **React state management, responsive UI, Django signals, API optimization, and shell scripting with variables and expansions**.
 
 ---
 
@@ -48,6 +48,25 @@ Focused on real-world UI development:
 ### ✈️ Travel App API (Django REST Framework)
 - **ModelViewSet & Routers**: Delivered full CRUD for `Listing` and `Booking` with minimal code.  
 - Felt like a true productivity boost ⚡.
+
+## 🐚 Shell Scripting Reflection: Variables & Expansions
+
+This week I also worked on **ALX Shell Variables and Expansions**.  
+I wrote Bash scripts to practice key shell concepts:
+
+- **Variables**: Creating local and global variables using `set` and `export`.  
+- **Expansions**: Arithmetic (`$((...))`), brace expansions, and alias creation.  
+- **Text Processing**: Using commands like `tr`, `grep`, `cut`, and `printf`.  
+- **Base Conversion & ROT13**: Solving puzzles like binary → decimal, decimal → hex, and text encoding.  
+- **File Permissions**: Remembering to `chmod +x` scripts for execution.  
+
+This gave me hands-on experience with **Linux shell scripting, environment management, and text manipulation**.
+
+**Shell Tools Used**:  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 
 ---
 
