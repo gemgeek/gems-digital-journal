@@ -27,7 +27,10 @@ I encountered a stubborn runtime error — `useQuery is not a function` — afte
 ## 🏆 Achievement Highlight
 
 I proudly ranked **#3 on the ProDev Backend Track Leaderboard (Month 2)** 🎉
+
 <img src="https://github.com/gemgeek/gems-digital-journal/blob/main/assets/ProDev%20BE%20Leaderboard.jpg" alt="Leaderboard" width="400">
+
+---
 
 ## 🛠️ Tech Stack & Tools Used
 
