@@ -72,7 +72,60 @@ Each project brought me closer to understanding what makes backend systems *trul
 
 ---
 
-## 🎨 Frontend Reflection (Coming Soon...)    
+## 🎨 Frontend Reflection: React Magic & Dynamic Data Flow  
+
+This week also explored the **frontend universe**, from mobile UIs to dynamic web apps that connect seamlessly to APIs.  
+
+---
+
+### 📱 **Project 1: React Native Mobile App (Static UI Building)**  
+**Stack:** ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
+This first assignment was a ground-up introduction to building mobile apps with React Native and the Expo framework. The entire focus was on learning the static building blocks—how to build what the user sees, without worrying about data.
+
+**Key Concepts:**
+- **Environment Setup:** Installed `expo-cli` and the Expo Go app on a physical device to act as a live preview emulator.  
+- **Core Components:** Learned foundational elements like `View` (like a `<div>`) and `Text` (like a `<p>`).  
+- **Styling:** Used `StyleSheet.create()` instead of CSS, gaining native-level performance.  
+- **Layout & Components:** Built progressively complex static screens with components like:  
+  - `Image` & `ImageBackground` for visuals  
+  - `TouchableOpacity` for buttons  
+  - `SafeAreaProvider` & `SafeAreaView` for notch-safe layouts  
+  - `TextInput` for forms and input fields  
+- **Project Structure:** Organized styles in `/styles/index.tsx` and imported them using path aliases (`@/styles`).  
+
+The final task was a **fully-styled static login screen**, combining all learned components — a strong intro to mobile UI building.
+
+---
+
+### 🏡 **Project 2: Next.js Airbnb Clone (API Integration)**  
+**Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)
+
+This second assignment transformed static pages into **dynamic, data-driven experiences**. The challenge: replace hardcoded data with real-time API responses.
+
+**Key Workflow ("The Full Stack Loop"):**
+1. **Create a Mock API Route:** Added new files under `pages/api/` like `/properties.ts` or `/bookings.ts` to simulate backend endpoints (with artificial delays).  
+2. **Call the API from Frontend:** Used `axios` in React components to fetch or post data.  
+
+**Key Concepts:**
+- **GET Requests:** Used `axios.get` in `useEffect()` to fetch data on page load.  
+  - `/` (List Page): fetched all properties.  
+  - `/property/[id]`: fetched a single property using `useRouter()` to get the dynamic `id`.  
+- **Nested Routes:** Added `/api/properties/[id]/reviews` to fetch reviews per property.  
+- **POST Requests:** Used `axios.post` to send booking form data to `/api/bookings`.  
+- **Loading & Error States:** Handled user experience with spinners (`loading`) and error messages on network failure.  
+- **Success States:** After a successful booking, replaced the form with a friendly "Thank you!" message.  
+
+In essence:
+- **React Native** taught me to *build what users see*.  
+- **Next.js** taught me to *make it work* by connecting frontend logic to real APIs.  
+
+Together, they completed the full-circle learning experience of frontend development.
 
 ---
 
@@ -87,11 +140,18 @@ Each project brought me closer to understanding what makes backend systems *trul
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![React_Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 ---
 
 ✨ **Reflection Summary:**  
-This week was the clearest demonstration yet of full-stack thinking, performance, reliability, automation, and clean user experiences all working in harmony. The backend now feels *alive* — not just serving data, but thinking, scheduling, and working in the background while users stay delighted.
+This week was the clearest demonstration yet of full-stack thinking — performance, reliability, automation, and clean user experiences all working in harmony.  
+
+The **backend** now feels *alive* — scheduling, caching, and optimizing data.  
+The **frontend** feels *intuitive and expressive* — transforming data into experiences.  
 
 > *Signed,*  
 > **GEM GEEK 🪩**
